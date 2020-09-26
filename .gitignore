@@ -1,0 +1,4 @@
+config/.env
+ndde_modules
+node_modules/
+config/*.txt
