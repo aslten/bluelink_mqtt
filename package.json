@@ -1,0 +1,16 @@
+{
+  "name": "bluelink_mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fredrik Edling",
+  "license": "ISC",
+  "dependencies": {
+    "async-mqtt": "^2.6.1",
+    "bluelinky": "^5.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
