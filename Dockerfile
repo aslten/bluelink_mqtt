@@ -3,6 +3,7 @@ FROM node:12
 WORKDIR /usr/bluelink
 
 COPY package.json ./
+COPY package-lock.json ./
 
 RUN npm install
 
